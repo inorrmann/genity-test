@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/genity-test/static/css/main.da6f1b66.chunk.css",
+    "main.js": "/genity-test/static/js/main.8344191c.chunk.js",
+    "main.js.map": "/genity-test/static/js/main.8344191c.chunk.js.map",
+    "runtime-main.js": "/genity-test/static/js/runtime-main.6981ba25.js",
+    "runtime-main.js.map": "/genity-test/static/js/runtime-main.6981ba25.js.map",
+    "static/js/2.01c22366.chunk.js": "/genity-test/static/js/2.01c22366.chunk.js",
+    "static/js/2.01c22366.chunk.js.map": "/genity-test/static/js/2.01c22366.chunk.js.map",
+    "index.html": "/genity-test/index.html",
+    "precache-manifest.bafad74a8609adb5151dcffd1d0771e3.js": "/genity-test/precache-manifest.bafad74a8609adb5151dcffd1d0771e3.js",
+    "service-worker.js": "/genity-test/service-worker.js",
+    "static/css/main.da6f1b66.chunk.css.map": "/genity-test/static/css/main.da6f1b66.chunk.css.map",
+    "static/js/2.01c22366.chunk.js.LICENSE.txt": "/genity-test/static/js/2.01c22366.chunk.js.LICENSE.txt",
+    "static/media/database-solid.svg": "/genity-test/static/media/database-solid.1d23af98.svg",
+    "static/media/file-alt-solid.svg": "/genity-test/static/media/file-alt-solid.cf5e4039.svg",
+    "static/media/server-solid.svg": "/genity-test/static/media/server-solid.92c7d580.svg",
+    "static/media/settings-ethernet.svg": "/genity-test/static/media/settings-ethernet.2e1d2b47.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6981ba25.js",
+    "static/js/2.01c22366.chunk.js",
+    "static/css/main.da6f1b66.chunk.css",
+    "static/js/main.8344191c.chunk.js"
+  ]
+}
