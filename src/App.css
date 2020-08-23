@@ -1,0 +1,19 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.services {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 2rem;
+}
+
+@media (max-width: 640px) {
+  .services {
+    justify-content: center;
+  }
+}
